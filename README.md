@@ -10,4 +10,4 @@ it's meant to be an experiment to see how things work in dotnet world.
 
 #### this is WIP
 
-I will update and provide a proper readme once I am comfortable with the microservice in dotnet idea.
+I will update and provide a proper readme once I am comfortable with the idea of writing microservices in dotnet.
